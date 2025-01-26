@@ -1,43 +1,36 @@
+<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" height = "50" width="1012">
+
 ## <h1 align="center">Hi, I'm Aninnda 👋🏽</h1>
-<h3 align="center">Software Engineering Student at Concordia University</h3>
 
+<h2 align="center">Software Engineering Student at Concordia University</h2>
 
+![Alt Text](https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af) 
 
-<h3 align="left">My programming languages</h3>
+<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" height = "50" width="1012">
 
-<div style="display: flex; gap: 20px; align-items: center;">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.erlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/>
-    </a>
-    <a href="https://clojure.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/>
-    </a>
-</div>
-   
-<h3 align="left">Web & Database:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<h1> 💻 Tech Stack</h1>
 
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,ts,py,c,clojure&theme=light)](https://skillicons.dev)
 
-<h3 align="left">Tools and Applications </h3>
+## Web & Database
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,mysql&theme=light)](https://skillicons.dev)
+
+## Tools & Applications
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,idea,eclipse,&theme=dark)](https://skillicons.dev)
+
+## Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=apple,windows&theme=light)](https://skillicons.dev)
+
+<h1> 📊 GitHub Stats </h1>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninnda&show_icons=true&locale=en" alt="aninnda" /></p>
+
+<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" height = "50" width="1012">
+
+## CONTACT 
+[![Discord](https://img.shields.io/badge/Discord-plugwalk9847-7289da?style=for-the-badge&logo=discord)](https://discord.com/users/plugwalk9847)
+[![Gmail](https://img.shields.io/badge/Gmail-aanoudatta%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:aanoudatta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aninnda%20Kumar%20Datta-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aninnda-kumar-datta-80b3682b9)
 
 
 
