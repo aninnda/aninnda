@@ -1,8 +1,9 @@
-<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" height = "50" width="1012">
+
 
 ## <h1 align="center">Hi, I'm Aninnda 👋🏽</h1>
 
 <h2 align="center">Software Engineering Student at Concordia University</h2>
+<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" height = "50" width="1012">
 
 ![Alt Text](https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af) 
 
