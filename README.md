@@ -23,11 +23,6 @@
 ## Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=apple,windows&theme=light)](https://skillicons.dev)
 
-<h1> 📊 GitHub Stats </h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aninnda&show_icons=true&locale=en" alt="aninnda" /></p>
-
-<img src="https://media1.tenor.com/m/rC1vAt-kMCoAAAAd/line-neon.gif" height = "50" width="1012">
-
 ## CONTACT 
 [![Discord](https://img.shields.io/badge/Discord-plugwalk9847-7289da?style=for-the-badge&logo=discord)](https://discord.com/users/plugwalk9847)
 [![Gmail](https://img.shields.io/badge/Gmail-aanoudatta%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:aanoudatta@gmail.com)
