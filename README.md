@@ -29,7 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aninnda%20Kumar%20Datta-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aninnda-kumar-datta-80b3682b9)
 
 ## Projects
-<h2 align="center"> Down below you will see some previous projects I have worked on ! </h2>
-<h1 align="center">👇🏾 👇🏾 👇🏾 👇🏾 👇🏾 👇🏾 👇🏾</h1>
+<h2 align="center"> See pinned section </h2>
+
 
   
