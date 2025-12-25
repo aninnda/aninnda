@@ -12,7 +12,7 @@
 <h1> 💻 Tech Stack</h1>
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,ts,py,c,clojure&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,ts,py,c&theme=light)](https://skillicons.dev)
 
 ## Web & Database
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs,mysql&theme=light)](https://skillicons.dev)
