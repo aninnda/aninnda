@@ -23,7 +23,7 @@
 ## Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=apple,windows&theme=light)](https://skillicons.dev)
 
-## CONTACT 
+## Contact
 [![Discord](https://img.shields.io/badge/Discord-plugwalk9847-7289da?style=for-the-badge&logo=discord)](https://discord.com/users/plugwalk9847)
 [![Gmail](https://img.shields.io/badge/Gmail-aanoudatta%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:aanoudatta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aninnda%20Kumar%20Datta-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aninnda-kumar-datta-80b3682b9)
