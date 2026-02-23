@@ -30,6 +30,6 @@
 
 ## Projects
 
-
+![Snake animation](https://raw.githubusercontent.com/aninnda/aninnda/output/snake.svg)
 
   
